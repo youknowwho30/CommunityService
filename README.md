@@ -3,7 +3,7 @@
 数据库：MySQL5.5.27
 开发工具：IntelliJIDEA_2019.3
 项目管理工具：Maven3.3.9
-1. 打开*Cmanagement*加载maven依赖
+1. 打开*Cmanagement*加载maven依赖 -（出现加载时间较长或者进度条不变的情况可能需要对maven进行换源）-
 2. 导入heima-estate.sql数据库
 3. 在application.yml中修改数据库账号密码和url
 4. 运行*CommunityApplication.java*
